@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Contacts:
+
+
+E-mail: santartur987@gmail.com
+Linkdin: www.linkedin.com/in/Artur-g-Santos
+Codewars: https://www.codewars.com/users/Artur-g-Santos
+
+# skills and tools
+-JAVA
+-C/C++
+-NETBEANS
+-DEV-C++
+JDK
